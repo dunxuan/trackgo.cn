@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 
-      text: 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 
+      title: 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财
+      text: 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财 来财
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
